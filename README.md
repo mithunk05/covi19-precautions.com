@@ -1,6 +1,6 @@
 Hi, I'm Mithun! 👋
 About Me
-I'm a third-year B.Tech student in Electronics and Computer Engineering, specializing in AI and ML. My key interests are:
+I'm a final-year B.Tech student in Electronics and Computer Engineering, specializing in AI and ML. My key interests are:
 
 Java Programming
 Data Structures and Algorithms
